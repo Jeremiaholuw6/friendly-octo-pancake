@@ -1,1 +1,2 @@
-# friendly-octo-pancake
+#!/bin/bash
+pwd
